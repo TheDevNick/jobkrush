@@ -25,7 +25,7 @@
     "express-async-handler": "^1.2.0",
     "http-status-codes": "^2.3.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.9.2",
+    "mongoose": "^8.24.7",
     "morgan": "^1.10.0",
     "pino": "^9.6.0",
     "pino-http": "^10.3.0",
